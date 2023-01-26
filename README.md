@@ -1,6 +1,6 @@
 # Lucky-Roll
 
-Site Live On: https://casina.netlify.app/
+Site Live On: https://luckyrollie.netlify.app/
 
 ![IMG_0778](https://user-images.githubusercontent.com/51906186/211168617-c3e0df07-5b66-4b2d-9aa4-de0d9c4b8ee9.png)
 
